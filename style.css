@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Patrick Hand', sans-serif;
 
 }
 
@@ -12,6 +12,7 @@ body {
     padding: 0x;
     box-sizing: border-box;
     width: 100%;
+    
 }
 
 /* .wrap{
