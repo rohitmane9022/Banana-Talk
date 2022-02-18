@@ -2,13 +2,16 @@
     --primary-color:#fbbf24;
 }
 
-html{
+body{
     font-family: 'Patrick Hand', cursive;
+
 }
 
 *{
     margin: 0px;
     padding: 0x;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 /* .wrap{
@@ -42,7 +45,7 @@ textarea{
      font-size: 1.2rem;
  }
 #out-put{
-    width: 808px;
+    
     height: 150px;
     border: 2px solid black;
   }
